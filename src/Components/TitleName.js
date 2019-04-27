@@ -2,7 +2,7 @@ import React from "react"
 
 function TitleName() {
     return(
-        <div>
+        <div className="titleName">
             Josh Daniels
         </div>
     )
